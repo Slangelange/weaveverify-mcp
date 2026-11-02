@@ -1,0 +1,20 @@
+{
+  "name": "@weaveverify/mcp-server",
+  "version": "1.1.0",
+  "description": "MCP server for RFC-8785 Ed25519 receipt verification, x402 paywall auditing, and Solana Blink / microstructure inspection.",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": {
+    "weaveverify-mcp": "./index.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "x402",
+    "solana",
+    "rfc8785",
+    "ed25519"
+  ],
+  "license": "MIT"
+}
